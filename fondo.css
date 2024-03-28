@@ -1,0 +1,7 @@
+body {
+    height: 150px;
+    background-image: url("xv.png");
+  background-size: cover;
+    background-repeat:no-repeat;
+    background-position: relative;
+  }
